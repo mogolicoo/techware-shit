@@ -34,7 +34,10 @@
 if not BC_WATERMARK then BC_WATERMARK=function()end end -- lazy ass
 BC_WATERMARK("\n\n\t- TECHWARE OUTFIT CHANGER GUI CODIGO PRINCIPAL HECHO POR MISAEL!!!!!\t\n\n")
 
--- getgenv().show = "t"
+-- why?
+if (not getgenv().show) then
+	getgenv().show = "t"
+end
 
 -- // loading the gui
 -- pasted shit from dex's code
