@@ -5,6 +5,7 @@
 	this was made by misael on 10/13/2021
   
 	spanish note: gui hecho simplemente para falsear reportes de da hood, disfruten lol. fue hecho por misael el 13/10/2021
+	spanish note2: MOY9_X PUEDES IRTE AL INFIERNO PEDOFILO DE MIERDA XD IGUAL TU CREW DE "DARK SOULZ" PINCHES EDGYS MAMONES NO MAMES YA MADUREN
 
 	change logs:
 	3/24/2022 release:
