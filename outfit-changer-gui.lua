@@ -3,12 +3,11 @@
 	techware outfit chnger gui djsfhdsfjdsfsdf
 	simple gui made for making fake reports for da hood, enjoy lol
 	this was made by misael on 10/13/2021
-	also this was meant to be used on other users, not on yourself (i had to remove localplayer from the list, oh well i'll do it later)
+	also this was meant to be used on other users, not on yourself
 	so if you're going to try and change ur avatar it's going to look weird or just kill you
 
 	spanish note: gui hecho simplemente para falsear reportes de da hood, disfruten lol. fue hecho por misael el 13/10/2021
-	spanish note2: MOY9_X PUEDES IRTE AL INFIERNO PEDOFILO DE MIERDA XD IGUAL TU CREW DE "DARK SOULZ" PINCHES EDGYS MAMONES NO MAMES YA MADUREN
-	spanish note3: ESTO NO FUNCIONA BIEN EN TU PROPIO PERSONAJE !!! ESTO FUE HECHO PARA USARLO EN OTROS JUGADORES !!! NO SE QUEJEN SI SU PERSONAJE SE MUERE O SE VE RARO SU AVATAR AL INTENTAR CAMBIAR SU OUTFIT !!!
+	spanish note2: ESTO NO FUNCIONA BIEN EN TU PROPIO PERSONAJE !!! ESTO FUE HECHO PARA USARLO EN OTROS JUGADORES !!! NO SE QUEJEN SI SU PERSONAJE SE MUERE O SE VE RARO SU AVATAR AL INTENTAR CAMBIAR SU OUTFIT !!!
 
 	change logs:
 	3/24/2022 release:
